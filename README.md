@@ -7,7 +7,7 @@
 <a href="LINK_LINKEDIN_KAMU_DISINI" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:EMAIL_KAMU_DISINI" target="_blank">
+<a href="mailto:mutiarahmah02@" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -23,16 +23,15 @@ I'm currently exploring the world of programming while following my passion for 
 
 <br>
 
-## 💻 Tech Stack
+## 🐸 Tech Stack
 
 <img src="https://img.shields.io/badge/C++-EFB2C4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-B8E1C9?style=for-the-badge&logo=python&logoColor=white" />
 
-## 
+## 🍏 Tools Design
 <img src="https://img.shields.io/badge/Figma-F6C6D9?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/CorelDRAW-A8D5BA?style=for-the-badge&logo=coreldraw&logoColor=white" />
 <img src="https://img.shields.io/badge/Photoshop-F8D7E3?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-
 <br><br>
 
 ## 🍀
