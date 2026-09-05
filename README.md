@@ -71,6 +71,7 @@ Currently exploring programming while chasing my passion for design. I work most
 <div align="center">
 
 <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=mouriiuu&theme=react&hide_border=true&bg_color=00000000&color=F9F5E7&line=F0A6C4&point=A8DF8E&area=true&area_color=FFD8DF" width="100%"/>
+
 [![ASCII IF Lab](https://ascii.web.id/api/widget/2509106040.svg?theme=matrix)](https://ascii.web.id)
 
 </div>
