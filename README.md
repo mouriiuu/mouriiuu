@@ -31,7 +31,7 @@
 
 **Informatics Student (3rd semester) | Mulawarman University | Design Enthusiast**
 
-<img src="./mabububs.png" align="left" width="150"/>
+<img src="./mabububs.png" align="left" width="100"/>
 Currently exploring programming while chasing my passion for design. I work mostly with C++ and Python on the tech side, and Figma, CorelDRAW, and Photoshop on the creative side. I enjoy building things that work well and look good.
 
 <br clear="left"/>
