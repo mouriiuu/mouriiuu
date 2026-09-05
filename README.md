@@ -6,10 +6,6 @@
 💻 Tech Stack
 
 <img src="https://img.shields.io/badge/C++-EFB2C4?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/Python-B8E1C9?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F6C6D9?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/CorelDRAW-A8D5BA?style=for-the-badge&logo=coreldraw&logoColor=white" /> <img src="https://img.shields.io/badge/Photoshop-F8D7E3?style=for-the-badge&logo=adobephotoshop&logoColor=white" /> </div> <br> <div align="center">
-  
-📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mouriiuu&show_icons=true&hide_border=true&title_color=FF9EB5&icon_color=8FCB9B&text_color=555555&bg_color=FFF9FB" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mouriiuu&hide_border=true&ring=FF9EB5&fire=8FCB9B&currStreakLabel=FF9EB5&background=FFF9FB" /> </div> <br> <div align="center">
 
 🌐 Connect with Me
 
