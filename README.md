@@ -10,7 +10,7 @@
 <td align="center">
 
 ༘⋆
-<a href="linkedin.com/in/mouriu-workstation" target="_blank">
+<a href="https://linkedin.com/in/mouriu-workstation" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-A8DF8E?style=for-the-badge&logo=linkedin&logoColor=5E3122" />
 </a>
 <a href="mailto:mutiarahmah02@student.unmul.ac.id" target="_blank">
