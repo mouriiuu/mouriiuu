@@ -5,10 +5,10 @@
 <br><br>
 
 <a href="LINK_LINKEDIN_KAMU_DISINI" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A8DF8E" />
+<img src="https://img.shields.io/badge/LinkedIn-A8DF8E?style=for-the-badge&logo=linkedin&logoColor=5E3122" />
 </a>
 <a href="mailto:mutiarahmah02@" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-FFD8DF?style=for-the-badge&logo=gmail&logoColor=5E3122" />
 </a>
 
 </div>
