@@ -1,6 +1,6 @@
-🎓 3rd-semester Informatics student | 🎨 Design enthusiast
+<div align="center"> 🎓 3rd-semester Informatics student | 🎨 Design enthusiast
 
-I'm currently exploring the world of programming while following my passion for design — I enjoy blending logic and creativity together.
+<div align="center"> I'm currently exploring the world of programming while following my passion for design — I enjoy blending logic and creativity together.
 
 </div> <br> <div align="center">
 💻 Tech Stack
