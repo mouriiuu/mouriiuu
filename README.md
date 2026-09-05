@@ -7,18 +7,18 @@
 <table align="center" width="100%">
 
 <tr>
+૮꒰◞ ˕ ◟ ྀི꒱ა
 <td align="center">
 
-૮꒰◞ ˕ ◟ ྀི꒱ა
 <a href="linkedin.com/in/mouriu-workstation" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-A8DF8E?style=for-the-badge&logo=linkedin&logoColor=5E3122" />
 </a>
 <a href="mailto:mutiarahmah02@student.unmul.ac.id" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFD8DF?style=for-the-badge&logo=gmail&logoColor=5E3122" />
 </a>
-ᯓ‎𝄞 ˎˊ˗
 
 </td>
+ᯓ‎𝄞 ˎˊ˗
 </tr>
 
 <tr>
