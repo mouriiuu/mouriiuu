@@ -14,7 +14,8 @@
 </a>
 <a href="mailto:mutiarahmah02@student.unmul.ac.id" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFD8DF?style=for-the-badge&logo=gmail&logoColor=5E3122" />
-</a> ᯓ‎𝄞 ˎˊ˗
+</a>
+ᯓ‎𝄞 ˎˊ˗
 
 </td>
 </tr>
@@ -45,11 +46,12 @@ Currently exploring programming while chasing my passion for design. I work most
 <tr>
 <td>
 
-## 🍏 Tools, Design & Collab •.°⋆:
+## 🍏 Tools, Design & Collab•.°⋆:
 
 <img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" />
+<img src="https://img.shields.io/badge/GitHub-FFD8DF?style=for-the-badge&logo=Github&logoColor=5E3122" />
 
 </td>
 </tr>
@@ -57,7 +59,7 @@ Currently exploring programming while chasing my passion for design. I work most
 <tr>
 <td>
 
-## 🍀🌸 :࿔*:･
+## 🍀🌸. ݁⋆ ۶ৎ ݁˖ . ݁
 
 <div align="center">
 
