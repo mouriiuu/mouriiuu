@@ -30,7 +30,7 @@
 ## Hey there! I'm Mutia Rahmah ૮꒰◞ ˕ ◟ ྀི꒱ა
 
 **Informatics Student (3rd semester) | Mulawarman University | Design Enthusiast**
-
+<hr style="border: none; height: 2px; background: repeating-linear-gradient(90deg, #A8DF8E, #A8DF8E 10px, transparent 10px, transparent 20px);">
 Currently exploring programming while chasing my passion for design. I work mostly with C++ and Python on the tech side, and Figma, CorelDRAW, and Photoshop on the creative side. I enjoy building things that work well and look good.
 
 </td>
