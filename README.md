@@ -25,13 +25,11 @@ I'm currently exploring the world of programming while following my passion for 
 
 ## 🐸 Tech Stack
 
-<img src="https://img.shields.io/badge/C++-EFB2C4?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-B8E1C9?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-A8DF8E?style=for-the-badge&logo=c%2B%2B&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Python-A8DF8E?style=for-the-badge&logo=python&logoColor=5E3122" />
+
 
 ## 🍏 Tools Design
-<img src="https://img.shields.io/badge/Figma-F6C6D9?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/CorelDRAW-A8D5BA?style=for-the-badge&logo=coreldraw&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-F8D7E3?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" /> <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" />
 <br><br>
 
 ## 🍀
