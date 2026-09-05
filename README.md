@@ -13,7 +13,7 @@ Currently exploring programming while chasing my passion for design. I work most
 <img src="https://img.shields.io/badge/C++-A8DF8E?style=for-the-badge&logo=c%2B%2B&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Python-A8DF8E?style=for-the-badge&logo=python&logoColor=5E3122" /> </td> </tr> <tr> <td>
 ## 🍏 Tools, Design & Collab •.°⋆:
 
-<img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" /> <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" /> </td> </tr> <tr> <td align="center">
+<img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" /> <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" /> </td> </tr> <tr> <td>
 ## 🍀🌸 :࿔*:･
 
 <div align="center">
