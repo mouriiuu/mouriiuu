@@ -71,3 +71,5 @@ Currently exploring programming while chasing my passion for design. I work most
 </tr>
 
 </table>
+
+<img src="./Footer.png" width="100%"/>
