@@ -9,6 +9,7 @@
 <tr>
 <td align="center">
 
+૮꒰◞ ˕ ◟ ྀི꒱ა
 <a href="linkedin.com/in/mouriu-workstation" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-A8DF8E?style=for-the-badge&logo=linkedin&logoColor=5E3122" />
 </a>
@@ -52,6 +53,7 @@ Currently exploring programming while chasing my passion for design. I work most
 <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/GitHub-FFD8DF?style=for-the-badge&logo=Github&logoColor=5E3122" />
+<img src="https://img.shields.io/badge/VSCode-FFD8DF?style=for-the-badge&logo=VisualStudioCode&logoColor=5E3122" />
 
 </td>
 </tr>
