@@ -9,7 +9,7 @@ I'm currently exploring the world of programming while following my passion for 
   
 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&hide_border=true&title_color=FF9EB5&icon_color=8FCB9B&text_color=555555&bg_color=FFF9FB" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&hide_border=true&ring=FF9EB5&fire=8FCB9B&currStreakLabel=FF9EB5&background=FFF9FB" /> </div> <br> <div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mouriiuu&show_icons=true&hide_border=true&title_color=FF9EB5&icon_color=8FCB9B&text_color=555555&bg_color=FFF9FB" /> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mouriiuu&hide_border=true&ring=FF9EB5&fire=8FCB9B&currStreakLabel=FF9EB5&background=FFF9FB" /> </div> <br> <div align="center">
 
 🌐 Connect with Me
 
