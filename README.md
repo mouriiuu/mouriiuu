@@ -70,7 +70,8 @@ Currently exploring programming while chasing my passion for design. I work most
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mouriiuu&theme=react&hide_border=true&bg_color=FFF9FB&color=5E3122&line=F0A6C4&point=A8DF8E&area=true&area_color=FFD8DF" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mouriiuu&show_icons=true&hide_border=true&title_color=5E3122&icon_color=A8DF8E&text_color=5E3122&bg_color=FFF9FB" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mouriiuu&hide_border=true&background=FFF9FB&ring=F0A6C4&fire=A8DF8E&currStreakLabel=5E3122" width="48%"/>
 
 [![ASCII IF Lab](https://ascii.web.id/api/widget/2509106040.svg?theme=matrix)](https://ascii.web.id)
 
