@@ -43,6 +43,7 @@ Currently exploring programming while chasing my passion for design. I work most
 
 <img src="https://img.shields.io/badge/C++-A8DF8E?style=for-the-badge&logo=c%2B%2B&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/Python-A8DF8E?style=for-the-badge&logo=python&logoColor=5E3122" />
+<img src="https://img.shields.io/badge/MySQL-A8DF8E?style=for-the-badge&logo=mysql&logoColor=5E3122" />
 
 </td>
 </tr>
