@@ -17,9 +17,9 @@
 
 ## Hey there! I'm Mou 👋
 
-**Informatics Student (Semester 3) | Design Enthusiast**
+**Informatics Student (3rd semester) | Design Enthusiast**
 
-I'm currently exploring the world of programming while following my passion for design — I enjoy blending logic and creativity together. My daily technical playground revolves around **C++** and **Python**, while my creative side lives in **Figma**, **CorelDRAW**, and **Photoshop**. Whether it's solving a coding problem or crafting a clean visual design, I love turning ideas into something well-made.
+Currently exploring programming while chasing my passion for design. I work mostly with C++ and Python on the tech side, and Figma, CorelDRAW, and Photoshop on the creative side. I enjoy building things that work well and look good.
 
 <br>
 
@@ -28,7 +28,7 @@ I'm currently exploring the world of programming while following my passion for 
 <img src="https://img.shields.io/badge/C++-A8DF8E?style=for-the-badge&logo=c%2B%2B&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Python-A8DF8E?style=for-the-badge&logo=python&logoColor=5E3122" />
 
 
-## 🍏 Tools Design•.°⋆:
+## 🍏 Tools, Design & Collab•.°⋆:
 <img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" /> <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" /> <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" />
 <br><br>
 
