@@ -30,7 +30,9 @@
 ## Hey there! I'm Mutia Rahmah ૮꒰◞ ˕ ◟ ྀི꒱ა
 
 **Informatics Student (3rd semester) | Mulawarman University | Design Enthusiast**
+
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=A8DF8E&height=30&section=header" width="100%"/>
+
 Currently exploring programming while chasing my passion for design. I work mostly with C++ and Python on the tech side, and Figma, CorelDRAW, and Photoshop on the creative side. I enjoy building things that work well and look good.
 
 </td>
