@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="LINK_LINKEDIN_KAMU_DISINI" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A8DF8E" />
 </a>
 <a href="mailto:mutiarahmah02@" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
