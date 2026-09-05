@@ -14,7 +14,7 @@
 </a>
 <a href="mailto:mutiarahmah02@student.unmul.ac.id" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFD8DF?style=for-the-badge&logo=gmail&logoColor=5E3122" />
-</a>
+</a> ᯓ‎𝄞 ˎˊ˗
 
 </td>
 </tr>
