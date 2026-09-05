@@ -3,7 +3,6 @@
 <img src="./banner.png" width="100%"/>
 
 <br><br>
-
 <a href="LINK_LINKEDIN_KAMU_DISINI" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-A8DF8E?style=for-the-badge&logo=linkedin&logoColor=5E3122" />
 </a>
@@ -12,9 +11,7 @@
 </a>
 
 </div>
-
 <br>
-
 ## Hey there! I'm Mou 👋
 
 **Informatics Student (3rd semester) | Design Enthusiast**
