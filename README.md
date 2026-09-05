@@ -16,6 +16,9 @@
 <a href="mailto:mutiarahmah02@student.unmul.ac.id" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFD8DF?style=for-the-badge&logo=gmail&logoColor=5E3122" />
 </a>
+<a href="https://github.com/mouriiuu" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-A8DF8E?style=for-the-badge&logo=Github&logoColor=5E3122" />
+</a>
 ᯓ‎𝄞 ˎˊ˗
 
 </td>
@@ -52,7 +55,6 @@ Currently exploring programming while chasing my passion for design. I work most
 <img src="https://img.shields.io/badge/Figma-FFD8DF?style=for-the-badge&logo=figma&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/CorelDRAW-FFD8DF?style=for-the-badge&logo=coreldraw&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/Photoshop-FFD8DF?style=for-the-badge&logo=adobephotoshop&logoColor=5E3122" />
-<img src="https://img.shields.io/badge/GitHub-FFD8DF?style=for-the-badge&logo=Github&logoColor=5E3122" />
 <img src="https://img.shields.io/badge/VSCode-FFD8DF?style=for-the-badge&logo=VisualStudioCode&logoColor=5E3122" />
 
 </td>
